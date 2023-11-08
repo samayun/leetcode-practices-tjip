@@ -1,5 +1,5 @@
 // TC: O(N)
-// MC: O(1)
+// MC: O(N)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
